@@ -1,4 +1,6 @@
 # getajob
+**Built with Vuejs and Bootstrap**
+![GetaJob Image](/src/assets/images/landingPage.jpg)
 
 ## Project setup
 ```
